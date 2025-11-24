@@ -1,0 +1,4 @@
+Food | 250
+Travel | 300
+Bills | 1200
+Shopping | 800
