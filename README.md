@@ -164,10 +164,10 @@ Total Spent: 1500
 3. Check output files generated  
 4. Modify and experiment with the code  
 
----
+
 
 ## 📝 Code Structure
-
+```
 
 project/
 │
@@ -187,8 +187,7 @@ project/
 ├── library.txt
 └── expenses.txt
 
-
----
+```
 
 ## 🎓 Learning Outcomes
 By completing this project, I have learned:  
